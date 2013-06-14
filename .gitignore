@@ -1,0 +1,14 @@
+*.egg
+*.egg-info
+*.pot
+*.py[co]
+*.orig
+*.rej
+*~
+*.bak
+*.marks
+*.o
+*.swp
+.*\#.*\#$
+
+dist/
